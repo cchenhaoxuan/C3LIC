@@ -41,7 +41,5 @@ train_model.py
 - Standford-Dog: (https://github.com/lingchojzj-ctrl/C3LIC/releases/download/v3.0/dog.zip)
 - FGVG-Aircraft: (https://github.com/lingchojzj-ctrl/C3LIC/releases/download/v2.0/plane.zip)
 ## Experimental Results
-The comparison results of MAP on CUB-200-2011, Stanford-Dog, and FGVC-Aircraft datasets with code lengths from 16 to 64 bits. The best results are highlighted in **bold**.
 ![Experiment Results](experiment1.png)
-The comparison results of MAP on Food101 and VegFru datasets with code lengths from 12 to 48 bits. The best results are highlighted in **bold**
 ![Experiment Results](experiment2.png)
