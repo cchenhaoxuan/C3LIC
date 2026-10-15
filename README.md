@@ -25,7 +25,7 @@ torchvision 0.14.1
 
 ## Download Datasets
 
-- CUB-200-2011 (http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)
+- CUB-200-2011 (https://github.com/noPatience-byte/C3LIC/tree/main/datasets/cub_bird)
 - Standford-Dog (https://opendatalab.com/OpenDataLab/Stanford_Dogs)
 - FGVC-Aircraft (https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/)
 
