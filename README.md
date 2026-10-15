@@ -23,7 +23,7 @@ torch 1.13.1
 
 torchvision 0.14.1
 
-## Download Datasets
+## Datasets
 
 | Datasets | Classes | Training images | Test images |  Link |
 | :--- | :---: | :---: | :---: | :--- |
@@ -31,9 +31,6 @@ torchvision 0.14.1
 | Standford-Dog | 120 | 12,000 | 8,580 | https://github.com/noPatience-byte/C3LIC/tree/main/datasets/stanford_dog |
 | FGVC-Aircraft | 100 | 6,667 | 3,333 | https://github.com/noPatience-byte/C3LIC/tree/main/datasets/aircraft |
 
-- CUB-200-2011 (https://github.com/noPatience-byte/C3LIC/tree/main/datasets/cub_bird)
-- Standford-Dog (https://github.com/noPatience-byte/C3LIC/tree/main/datasets/stanford_dog)
-- FGVC-Aircraft (https://github.com/noPatience-byte/C3LIC/tree/main/datasets/aircraft)
 
 ## Training 
 
