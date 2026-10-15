@@ -26,7 +26,7 @@ torchvision 0.14.1
 ## Download Datasets
 
 - CUB-200-2011 (https://github.com/noPatience-byte/C3LIC/tree/main/datasets/cub_bird)
-- Standford-Dog (https://opendatalab.com/OpenDataLab/Stanford_Dogs)
+- Standford-Dog (https://github.com/noPatience-byte/C3LIC/tree/main/datasets/stanford_dog)
 - FGVC-Aircraft (https://github.com/noPatience-byte/C3LIC/tree/main/datasets/aircraft)
 
 ## Training 
