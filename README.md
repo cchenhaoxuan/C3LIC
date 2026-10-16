@@ -46,6 +46,8 @@ train_model.py
 - CUB-200-2011: (https://github.com/noPatience-byte/C3LIC/archive/refs/tags/cub.zip)
 - Standford-Dog: (https://github.com/noPatience-byte/C3LIC/releases/download/dog/dog.zip)
 - FGVG-Aircraft: (https://github.com/noPatience-byte/C3LIC/releases/download/plane/plane.zip)
+- Food101: ()
+- VegFru: ()
 ## Experimental Results
 ![Experiment Results](experiment1.png)
 ![Experiment Results](experiment2.png)
