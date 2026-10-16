@@ -31,7 +31,7 @@ torchvision 0.14.1
 | Standford-Dog | 120 | 12,000 | 8,580 | https://github.com/noPatience-byte/C3LIC/tree/main/datasets/stanford_dog |
 | FGVC-Aircraft | 100 | 6,667 | 3,333 | https://github.com/noPatience-byte/C3LIC/tree/main/datasets/aircraft |
 | Food101 | 101 | 75,750 | 25,250 | https://github.com/noPatience-byte/C3LIC/tree/main/datasets/aircraft |
-| VegFru | 292 | 29,200 | 116,931 | https://github.com/noPatience-byte/C3LIC/tree/main/datasets/VegFru |
+| VegFru | 292 | 29,200 | 116,931 | https://github.com/noPatience-byte/C3LIC/tree/main/datasets/vegfru |
 
 
 
