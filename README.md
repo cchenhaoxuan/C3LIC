@@ -37,7 +37,7 @@ train_model.py
 ```
 ## CLIP Model Pre-trained Weights
 - Vit-B-16: (https://github.com/cchenhaoxuan/C3LIC/releases/download/CLIP/CLIP.Model.zip)
-## Weights
+## Model Weights Trained from Scratch
 - CUB-200-2011: (https://github.com/cchenhaoxuan/C3LIC/archive/refs/tags/cub.zip)
 - Standford-Dog: (https://github.com/cchenhaoxuan/C3LIC/releases/download/dog/dog.zip)
 - FGVG-Aircraft: (https://github.com/cchenhaoxuan/C3LIC/releases/download/plane/plane.zip)
