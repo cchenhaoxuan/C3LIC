@@ -35,7 +35,7 @@ torchvision 0.14.1
 ```
 train_model.py
 ```
-## CLIP Model Weights
+## CLIP Model Pre-trained Weights
 - Vit-B-16: (https://github.com/cchenhaoxuan/C3LIC/releases/download/CLIP/CLIP.Model.zip)
 ## Weights
 - CUB-200-2011: (https://github.com/cchenhaoxuan/C3LIC/archive/refs/tags/cub.zip)
