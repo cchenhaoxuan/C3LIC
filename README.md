@@ -1,7 +1,7 @@
-# C3LIC: CLIP-guided Codebook Contrastive Learning with Instance Concepts for Fine-grained Image Retrieval
+# C3LIC: CLIP-guided Codebook Contrastive Learning with Instance-modulated Concepts for Fine-grained Image Retrieval
 
 This project is a pytorch implementation of "C3LIC: CLIP-guided Codebook Contrastive
-Learning with Instance Concepts for Fine-grained
+Learning with Instance-modulated Concepts for Fine-grained
 Image Retrieval". 
 
 ## Abstract
