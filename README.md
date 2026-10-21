@@ -22,11 +22,11 @@ torchvision 0.14.1
 
 | Datasets | Classes | Training images | Test images |  Link |
 | :--- | :---: | :---: | :---: | :--- |
-| CUB-200-2011 | 200 | 5,994 | 5,794 | https://github.com/noPatience-byte/C3LIC/tree/main/datasets/cub_bird |
-| Standford-Dog | 120 | 12,000 | 8,580 | https://github.com/noPatience-byte/C3LIC/tree/main/datasets/stanford_dog |
-| FGVC-Aircraft | 100 | 6,667 | 3,333 | https://github.com/noPatience-byte/C3LIC/tree/main/datasets/aircraft |
-| Food101 | 101 | 75,750 | 25,250 | https://github.com/noPatience-byte/C3LIC/tree/main/datasets/food101 |
-| VegFru | 292 | 29,200 | 116,931 | https://github.com/noPatience-byte/C3LIC/tree/main/datasets/vegfru |
+| CUB-200-2011 | 200 | 5,994 | 5,794 | https://github.com/cchenhaoxuan/C3LIC/tree/main/datasets/cub_bird |
+| Standford-Dog | 120 | 12,000 | 8,580 | https://github.com/cchenhaoxuan/C3LIC/tree/main/datasets/stanford_dog |
+| FGVC-Aircraft | 100 | 6,667 | 3,333 | https://github.com/cchenhaoxuan/C3LIC/tree/main/datasets/aircraft |
+| Food101 | 101 | 75,750 | 25,250 | https://github.com/cchenhaoxuan/C3LIC/tree/main/datasets/food101 |
+| VegFru | 292 | 29,200 | 116,931 | https://github.com/cchenhaoxuan/C3LIC/tree/main/datasets/vegfru |
 
 
 
@@ -38,9 +38,9 @@ train_model.py
 ## CLIP Model Weights
 - Vit-B-16: (https://github.com/noPatience-byte/C3LIC/releases/download/CLIP/CLIP.Model.zip)
 ## Weights
-- CUB-200-2011: (https://github.com/noPatience-byte/C3LIC/archive/refs/tags/cub.zip)
-- Standford-Dog: (https://github.com/noPatience-byte/C3LIC/releases/download/dog/dog.zip)
-- FGVG-Aircraft: (https://github.com/noPatience-byte/C3LIC/releases/download/plane/plane.zip)
+- CUB-200-2011: (https://github.com/cchenhaoxuan/C3LIC/archive/refs/tags/cub.zip)
+- Standford-Dog: (https://github.com/cchenhaoxuan/C3LIC/releases/download/dog/dog.zip)
+- FGVG-Aircraft: (https://github.com/cchenhaoxuan/C3LIC/releases/download/plane/plane.zip)
 - Food101: (https://github.com/cchenhaoxuan/C3LIC/releases/download/food/food101.zip)
 - VegFru: ()
 ## Experimental Results
