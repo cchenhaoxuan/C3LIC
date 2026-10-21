@@ -35,6 +35,12 @@ torchvision 0.14.1
 ```
 train_model.py
 ```
+
+## Testing 
+
+```
+train_model.py
+```
 ## CLIP Model Pre-trained Weights
 - Vit-B-16: (https://github.com/cchenhaoxuan/C3LIC/releases/download/CLIP/CLIP.Model.zip)
 ## Model Weights Trained from Scratch
