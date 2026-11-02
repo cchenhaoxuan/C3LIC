@@ -48,7 +48,7 @@ test.py
 - Standford-Dog: (https://github.com/cchenhaoxuan/C3LIC/releases/download/dog/dog.zip)
 - FGVG-Aircraft: (https://github.com/cchenhaoxuan/C3LIC/releases/download/plane/plane.zip)
 - Food101: (https://github.com/cchenhaoxuan/C3LIC/releases/download/food/food101.zip)
-- VegFru: ()
+- VegFru: (https://github.com/cchenhaoxuan/C3LIC/releases/download/vegfru/vegfru.zip)
 ## Experimental Results
 ![Experiment Results](experiment1.png)
 ![Experiment Results](experiment2.png)
