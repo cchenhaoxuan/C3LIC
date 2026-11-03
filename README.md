@@ -43,7 +43,7 @@ test.py
 ```
 ## Pre-trained Weights
 - CLIP: (https://github.com/cchenhaoxuan/C3LIC/releases/download/CLIP/CLIP.Model.zip)
-- ResNet: ()
+- ResNet: (https://download.pytorch.org/models/resnet50-0676ba61.pth?utm_source=chatgpt.com)
 ## Trained Model Weights
 - CUB-200-2011: (https://github.com/cchenhaoxuan/C3LIC/archive/refs/tags/cub.zip)
 - Standford-Dog: (https://github.com/cchenhaoxuan/C3LIC/releases/download/dog/dog.zip)
